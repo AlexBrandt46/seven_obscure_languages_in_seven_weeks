@@ -1,0 +1,22 @@
+{
+    "recommendations": [
+        "dvishal485.simula-language-support",
+        "eirslett.vscode-simula",
+        "ehsanvakil.forthr",
+        "rickcarlino.forth",
+        "fttx.language-forth",
+        "bogdandavydov.apl",
+        "simongu.vscode-footnote-highlight",
+        "optimasystems.vscode-apl-language",
+        "guilhermewestphall.apl-keymap",
+        "optimasystems.vscode-apl-language-client",
+        "mauro-f76.apl-language-features",
+        "prollings.aplbackticksymbols",
+        "mauro-f76.apl-macro-language",
+        "tristoon.language-algol60",
+        "jlguenego.algol68",
+        "algol68g.algol68g",
+        "zanehambly.coral66-lsp",
+        "chipnetics.spitbol"
+    ]
+}
